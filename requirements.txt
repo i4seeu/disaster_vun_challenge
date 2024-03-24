@@ -1,2 +1,5 @@
-numpy
-pandas
+fastai 
+torch 
+numpy 
+pandas 
+matplotlib
